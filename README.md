@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Milad 👋</h1>
 
-<!--
-**miladkamali1992/miladkamali1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miladkamali1992&show_icons=true&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladkamali1992&layout=compact&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 Python Developer  
+- 🎨 Passion for clean UI/UX  
+- ⚡ Love building tools & desktop apps  
+- 🎬 Creator of **yt-qs** YouTube Downloader
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python  
+- **Libraries:** Tkinter, Requests  
+- **Tools:** Git, ffmpeg, yt-dlp  
+
+---
+
+## 📬 Contact
+Telegram: **[MiladKamali.t.me](https://MiladKamali.t.me)**  
+
+---
+
+<p align="center"><b>Thanks for visiting! ⭐</b></p>
